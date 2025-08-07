@@ -72,9 +72,23 @@ Here are some highlights from my GitHub portfolio:
 ---
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=gruvbox" />
-  <img src="https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=gruvbox" />
+  <img src="https://komarev.com/ghpvc/?username=Amanchouhan2708&label=Profile%20Views&color=0e75b6&style=flat" alt="Aman Chouhan" />
 </p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Amanchouhan2708&show_icons=true&theme=gruvbox" alt="GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-90%25-brightgreen?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-85%25-blue?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pandas-80%25-yellow?style=for-the-badge&logo=pandas&logoColor=black" />
+  <img src="https://img.shields.io/badge/Matplotlib-75%25-orange?style=for-the-badge&logo=plotly&logoColor=white" />
+  <img src="https://img.shields.io/badge/Seaborn-78%25-purple?style=for-the-badge&logo=plotly&logoColor=white" />
+  <img src="https://img.shields.io/badge/Excel-85%25-success?style=for-the-badge&logo=microsoft-excel&logoColor=white" />
+  <img src="https://img.shields.io/badge/PowerBI-80%25-gold?style=for-the-badge&logo=powerbi&logoColor=black" />
+</p>
+
 
 ---
 
