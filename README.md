@@ -87,6 +87,7 @@ Here are some highlights from my GitHub portfolio:
   <img src="https://img.shields.io/badge/Seaborn-78%25-purple?style=for-the-badge&logo=plotly&logoColor=white" />
   <img src="https://img.shields.io/badge/Excel-85%25-success?style=for-the-badge&logo=microsoft-excel&logoColor=white" />
   <img src="https://img.shields.io/badge/PowerBI-80%25-gold?style=for-the-badge&logo=powerbi&logoColor=black" />
+  <img src="https://img.shields.io/badge/Tableau-70%25-Pinl?style=for-the-badge&logo=microsoft-excel&logoColor=white" />
 </p>
 
 
